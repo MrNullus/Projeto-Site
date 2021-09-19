@@ -1,2 +1,2 @@
-# Projeto Site
- Projeto Site feito durante o curso  de Git e GitHub do Curso em Video
+# *__Projeto Site__*
+## Projeto de um site feito durante o curso de Git e GitHub do __Curso em Video__
