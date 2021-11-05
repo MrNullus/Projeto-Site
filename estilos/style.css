@@ -9,13 +9,14 @@ body{
     display: flex;
     align-items: center;
     justify-content: center;
-    min-width: 100vw; min-height: 100vh;
+    max-width: 100vw;
     background-color: #FF015B;
+    padding: 1em;
 
 }
 
 main{
-    width: 100vh;
+    max-width: 100vh;
     background-color: white;
     box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.473);
     padding: 1rem;
@@ -82,6 +83,6 @@ a.btn-back{
 	margin: 45px;
 }
 
-main .course .content iframe{
+.course .content iframe{
     padding: 2rem;
 }
